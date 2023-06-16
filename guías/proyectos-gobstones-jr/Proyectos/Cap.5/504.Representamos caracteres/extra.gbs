@@ -1,3 +1,0 @@
-procedure Poner_BolitasNegras(n) {
-  repeat(n) { Poner(Negro) }
-}

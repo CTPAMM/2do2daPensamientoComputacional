@@ -1,4 +1,0 @@
-procedure UsarElMatafuego() { 
-   Sacar(Rojo) 
-   Poner(Negro) 
-}

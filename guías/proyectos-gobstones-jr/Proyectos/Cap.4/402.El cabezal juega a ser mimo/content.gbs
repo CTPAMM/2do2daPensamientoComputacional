@@ -1,9 +1,0 @@
-procedure ImitarLasAzulesEnRojo() {
-  repeat(...) {
-    Poner(Rojo)
-  }
-}
-
-
-program {
-}

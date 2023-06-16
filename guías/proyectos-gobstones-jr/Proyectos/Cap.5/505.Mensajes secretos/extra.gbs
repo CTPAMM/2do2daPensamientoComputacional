@@ -1,7 +1,0 @@
-procedure Poner_BolitasNegras(n) {
-  repeat(n) { Poner(Negro) }
-}
-
-procedure Sacar_BolitasNegras(n) {
-  repeat(n) { Sacar(Negro) }
-}
