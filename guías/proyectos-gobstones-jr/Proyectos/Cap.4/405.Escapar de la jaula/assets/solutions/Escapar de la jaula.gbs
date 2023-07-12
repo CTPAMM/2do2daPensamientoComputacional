@@ -1,8 +1,0 @@
-procedure AyudarAlRatónASalir() {
-  MoverElRatónA_(dondeApuntaLaFlecha())
-}
-
-
-program {
-  AyudarAlRatónASalir()
-}
