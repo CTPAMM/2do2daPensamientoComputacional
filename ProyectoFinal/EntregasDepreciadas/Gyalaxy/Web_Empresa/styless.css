@@ -1,0 +1,28 @@
+/* Estilos generales*/
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    margin: 0;
+    padding: 0;
+}
+
+header {
+ background-color: rgb(160, 29, 160);
+color: rgb(0, 0, 0);
+padding: 0%;
+text-align: center;
+}
+
+nav ul {
+list-style: none;
+padding: 0;
+}
+
+nav ul li {
+display: :inline;
+margin-right:20px;
+}
+
+nav a {
+color: blue;
+text-decoration: none;
+}

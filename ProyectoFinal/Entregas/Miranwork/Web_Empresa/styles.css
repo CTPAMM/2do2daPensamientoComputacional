@@ -1,0 +1,55 @@
+/* Estilos generales */
+
+/* Estilos generales*/
+
+/* Estilos del encabezado de la página (header)*/
+
+header {
+    background-color: coral;
+     color: aqua;
+    padding:1rem;
+    text-align: center;
+}
+
+/* Estilos del cuerpo de la página (body)*/
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+/* Estilos de la barra de navegación (nav) */
+
+nav ul{
+       list-style:  none;
+       padding: 0;
+}
+nav ul li{
+    display:inline;
+    margin-right: 20px;
+}
+
+
+nav a {
+    color: aqua;
+    text-decoration: none;
+}
+
+/* Estilos de la imagen del logo en el nav */
+
+.img-logo {
+    display: block;
+    width: 5%;
+    margin: left;
+}
+
+/* Estilos de la imagen de cabecera (hero) */
+
+#hero{
+background-image:url('./imagenes/hero.jfif');
+background-size:cover;
+color: rgb(4,1,6);
+text-align:center;
+padding: 200px 0;
+}

@@ -1,0 +1,12 @@
+print("***********************************************")
+print("Bienvenido a la calculadora de 5 operaciones")
+print("***********************************************")  
+
+print("*****************MENU DE PERACIONES************")  
+print("1-SUMA")  
+print("2-RESTA")
+print("3-MULTIPLICACION")
+print("4-DIVICION")
+print("5-PPOTENCIACION")
+print("6-RADIACION")
+print("*****************************************")
