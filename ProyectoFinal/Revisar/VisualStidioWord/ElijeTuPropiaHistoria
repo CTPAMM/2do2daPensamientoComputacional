@@ -1,0 +1,25 @@
+# PROBLEMA: Un usuario nececita crear un juego del tipo Elige tu propia historia
+# SOLUCION: Crear un ALGORITMO del juego
+# ALGORITMO: Creo en programa del juego
+
+while True:
+    # PASO 1: Pedir el nombre del usuario.
+    nombre = input ("ingese su nombre")
+    
+    #PASO 2: Imprimir la bienvenida el usuario
+    
+    print(f"Bienvenido {nombre}")
+    
+    #PASO 3: Iniciar el juego
+    
+    resultado = input("Vas a patear en penal a donde lo pateas izquierda o derecha.¿Que eliges?(izquierda/derecha)")
+    
+    if resultado == "derecha":
+        print ("se lo tapo el arquero")
+    elif resultado == "izquierda"
+        input("Lo metes, lo festejas con messi o ronaldo(ronaldo/messi)")
+    if resultado == "ronaldo":
+        print("perdiste porque no estaba")
+        break
+    elif resultado == "sigo":
+        print ("Ganaste porque lo festejaste con tu jugador favorito")
